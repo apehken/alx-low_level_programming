@@ -1,15 +1,10 @@
-#include<stdio.h>
 #include "main.h"
 /**
-*swap_int - swaps the values of two integers.
-*@a: value to be evaluate.
-*@b: value to be evaluate.
-*Return: not.
+* reset_to_98 -a function that takes a pointer to an int
+* @n: puntero
+* Return: (0)
 */
-void swap_int(int *a, int *b)
+void reset_to_98(int *n)
 {
-
-	int n = *a;
-	*a = *b;
-	*b = n;
+	*n = 98;
 }
