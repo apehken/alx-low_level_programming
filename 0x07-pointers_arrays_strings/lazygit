@@ -1,4 +1,5 @@
 #!/bin/bash
 git add .
-git commit -a -m "$1"
+read Even more pointers, arrays and strings
+git commit -a -m "$Even more pointers, arrays and strings"
 git push
