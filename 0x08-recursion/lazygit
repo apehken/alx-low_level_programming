@@ -1,0 +1,5 @@
+#!/bin/bash
+git add .
+read Recursion
+git commit -a -m "$ Recursion"
+git push
