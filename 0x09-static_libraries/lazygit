@@ -1,0 +1,5 @@
+#!/bin/bash
+read Static libraries
+git add .
+git commit -a -m "Static libraries"
+git push
