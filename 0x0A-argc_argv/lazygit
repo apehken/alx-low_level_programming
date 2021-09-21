@@ -1,0 +1,5 @@
+#!/bin/bash
+read C - argc, argv
+git add .
+git commit -a -m "C - argc, argv"
+git push
