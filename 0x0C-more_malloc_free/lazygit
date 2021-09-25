@@ -1,0 +1,5 @@
+#!/bin/bash
+read C - More malloc, free
+git add .
+git commit -a -m "C - More malloc, free"
+git push
