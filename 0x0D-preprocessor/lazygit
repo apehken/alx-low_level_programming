@@ -1,0 +1,5 @@
+#!/bin/bash
+read C - Preprocessor
+git add .
+git commit -a -m "C - Preprocessor"
+git push
