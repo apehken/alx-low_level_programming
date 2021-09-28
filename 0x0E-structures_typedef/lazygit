@@ -1,0 +1,5 @@
+#!/bin/bash
+read C - Structures, typedef
+git add .
+git commit -a -m "C - Structures, typedef"
+git push
