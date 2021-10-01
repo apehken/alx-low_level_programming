@@ -1,0 +1,5 @@
+#!/bin/bash
+read C - Function pointers
+git add .
+git commit -a -m "C - Function pointers"
+git push
