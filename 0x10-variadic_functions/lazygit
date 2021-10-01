@@ -1,0 +1,5 @@
+#!/bin/bash
+read C - Variadic functions
+git add .
+git commit -a -m "C - Variadic functions"
+git push
