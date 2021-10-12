@@ -1,0 +1,5 @@
+#!/bin/bash
+read C - More singly linked lists
+git add .
+git commit -a -m "C - More singly linked lists"
+git push
